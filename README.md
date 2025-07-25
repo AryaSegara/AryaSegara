@@ -37,7 +37,7 @@
         
 🔸 **Pronouns:** He/Him  
 🔸 **Location:** Indonesia 🇮🇩  
-🔸 **Role:** Junior Web Developer | Java Developer | .NET Developer | Back-End Developer  | Full Stack Developer
+🔸 **Role:** Junior Web Developer | Java Developer | .NET Developer | Back-End Developer | FullStack Developer
 🔸 **Focus:** Building scalable web applications  
 🔸 **Fun Fact:** I debug with console.log() and I'm not ashamed! 😄  
 
