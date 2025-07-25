@@ -3,7 +3,7 @@
 <div align="center">
   
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hi%20👋%20I'm%20Efengsi&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Junior%20Web%20Developer%20|%20.NET%20Developer%20|%20Back-End%20Developer&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hi%20👋%20I'm%20AryaSegara&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Junior%20Web%20Developer%20|%20.NET%20Developer%20|%20Back-End%20Developer&descAlignY=55&descSize=18" />
 
 <!-- Typing Animation -->
 <p>
@@ -11,7 +11,7 @@
 </p>
 
 <!-- Profile Views Counter with Animation -->
-<img src="https://komarev.com/ghpvc/?username=Fengsii&style=for-the-badge&color=blueviolet&animated=true" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=AryaSegara&style=for-the-badge&color=blueviolet&animated=true" alt="Profile views" />
 
 </div>
 
@@ -20,9 +20,9 @@
 <div align="center">
   
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fengsii/Fengsii/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fengsii/Fengsii/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Fengsii/Fengsii/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AryaSegara/AryaSegara/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AryaSegara/AryaSegara/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AryaSegara/AryaSegara/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -37,7 +37,7 @@
         
 🔸 **Pronouns:** He/Him  
 🔸 **Location:** Indonesia 🇮🇩  
-🔸 **Role:** Junior Web Developer | .NET Developer | Back-End Developer  
+🔸 **Role:** Junior Web Developer | Java Developer | .NET Developer | Back-End Developer  | Full Stack Developer
 🔸 **Focus:** Building scalable web applications  
 🔸 **Fun Fact:** I debug with console.log() and I'm not ashamed! 😄  
 
@@ -81,11 +81,11 @@
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Fengsii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fengsii&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AryaSegara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AryaSegara&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fengsii&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-<img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fengsii&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaSegara&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+<img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=AryaSegara&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 
 </div>
 
@@ -95,7 +95,7 @@
 
 <div align="center">
   
-<img src="https://github-profile-trophy.vercel.app/?username=Fengsii&theme=tokyonight&no-frame=true&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=AryaSegara&theme=tokyonight&no-frame=true&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
 
 </div>
 
@@ -123,16 +123,16 @@ SQL          45 mins         █░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-<a href="https://instagram.com/fengsii_rzzz">
+<a href="https://instagram.com/aryasegara_rzzz">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&animation=pulse" alt="Instagram" />
 </a>
-<a href="https://linkedin.com/in/Efengsi%20Rahmanto%20Zalukhu">
+<a href="https://linkedin.com/in/AryaSegara%20Rahmanto%20Zalukhu">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:ahmad88989999@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-<a href="https://github.com/Fengsii">
+<a href="https://github.com/AryaSegara">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
@@ -153,11 +153,11 @@ SQL          45 mins         █░░░░░░░░░░░░░░░░
 ## 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/Fengsii/awesome-project/pull/21) in [Fengsii/awesome-project](https://github.com/Fengsii/awesome-project)
-2. 💪 Opened PR [#18](https://github.com/Fengsii/web-app/pull/18) in [Fengsii/web-app](https://github.com/Fengsii/web-app)
-3. ❗️ Closed issue [#15](https://github.com/Fengsii/portfolio/issues/15) in [Fengsii/portfolio](https://github.com/Fengsii/portfolio)
-4. 🗣 Commented on [#12](https://github.com/Fengsii/react-components/issues/12) in [Fengsii/react-components](https://github.com/Fengsii/react-components)
-5. 🔥 Pushed 3 commits to [Fengsii/backend-api](https://github.com/Fengsii/backend-api)
+1. 🎉 Merged PR [#21](https://github.com/AryaSegara/awesome-project/pull/21) in [AryaSegara/awesome-project](https://github.com/AryaSegara/awesome-project)
+2. 💪 Opened PR [#18](https://github.com/AryaSegara/web-app/pull/18) in [AryaSegara/web-app](https://github.com/AryaSegara/web-app)
+3. ❗️ Closed issue [#15](https://github.com/AryaSegara/portfolio/issues/15) in [AryaSegara/portfolio](https://github.com/AryaSegara/portfolio)
+4. 🗣 Commented on [#12](https://github.com/AryaSegara/react-components/issues/12) in [AryaSegara/react-components](https://github.com/AryaSegara/react-components)
+5. 🔥 Pushed 3 commits to [AryaSegara/backend-api](https://github.com/AryaSegara/backend-api)
 <!--END_SECTION:activity-->
 
 ---
