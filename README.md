@@ -59,18 +59,16 @@
 ---
 
 ## 🛠️ Languages and Tools
-
 <div align="center">
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,cs,cpp,c,html,css&theme=dark" alt="Programming Languages" />
-  <img src="https://skillicons.dev/icons?i=react,vue,dotnet&theme=dark" alt="Frameworks" />
-
+<img src="https://skillicons.dev/icons?i=java,js,cs,cpp,c,html,css&theme=dark" alt="Programming Languages" />
+<img src="https://skillicons.dev/icons?i=spring,nodejs,react,dotnet&theme=dark" alt="Frameworks & Runtimes" />
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,vscode,visualstudio,php,postman,github&theme=dark" alt="Tools" />
-  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Cloud" />
+<img src="https://skillicons.dev/icons?i=docker,postgres,mysql,git,vscode,visualstudio,php,postman,github&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Cloud" />
 </p>
 
 </div>
